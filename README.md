@@ -1,6 +1,6 @@
 - 👋 Olá, Meu nome é @Marcel0Henrique
 - 👀 O que mais me interessa é app para android
-- 🌱 Eu estou aprendendo python e java
+- 🌱 Eu estou aprendendo dart, java e CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
