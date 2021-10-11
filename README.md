@@ -1,9 +1,6 @@
-<h2> Olá estranho, sou Marcelo Henrique</h2>
-- 👋 Olá, Meu nome é @Marcel0Henrique
-- 👀 O que mais me interessa é app para android
-- 🌱 Eu estou aprendendo Python, Java e Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2> Olá estranho, sou Marcelo Henrique!</h2>
+![Marcelo Henrique GitHub status](https://github-readme-stats.vercel.app/api?username=Marcel0Henrique&theme=tokyonight&show_icons=true)
+
 
 <!---
 Marcel0Henrique/Marcel0Henrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
