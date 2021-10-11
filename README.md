@@ -1,4 +1,10 @@
-<h2> Olá estranho, sou Marcelo Henrique!</h2>
+<h2> Olá visitante!</h2>
+
+<h3>Quem eu sou?</h3>
+<ul >
+  <li>⭐ Analista de dados junior</li>
+  <li>⭐ Administrador</li>
+</ul>
 
 
 <img align="left" alt="Marcelo Henrique's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Marcel0Henrique&theme=tokyonight&show_icons=true">
