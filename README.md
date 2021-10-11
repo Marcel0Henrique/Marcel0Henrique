@@ -10,7 +10,7 @@
 
 
 <img height="180em" align="left" alt="Marcelo Henrique's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Marcel0Henrique&theme=tokyonight&show_icons=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcel0Henrique&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcel0Henrique&layout=compact&langs_count=7&theme=tokyonight"/>
 
 
 
