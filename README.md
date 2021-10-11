@@ -1,4 +1,4 @@
-<h2> Quem eu sou ?</h2>
+<h2> Olá estranho, sou Marcelo Henrique</h2>
 - 👋 Olá, Meu nome é @Marcel0Henrique
 - 👀 O que mais me interessa é app para android
 - 🌱 Eu estou aprendendo Python, Java e Javascript
