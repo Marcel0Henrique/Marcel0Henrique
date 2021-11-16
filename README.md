@@ -1,7 +1,7 @@
-<h2> Olá visitante!</h2>
+<h2> Hello, my friend!</h2>
 
 <div>
-  <h3>Quem eu sou?</h3>
+  <h3>Who am I?</h3>
   <ul >
     <li>⭐ <b>Data Analyst - Junior</b></li>
     <li>⭐ <b>Administrator</li></b>
