@@ -3,8 +3,8 @@
 <div>
   <h3>Quem eu sou?</h3>
   <ul >
-    <li>⭐ <b>Analista de Dados Junior</b></li>
-    <li>⭐ <b>Administrador</li></b>
+    <li>⭐ <b>Data Analyst - Junior</b></li>
+    <li>⭐ <b>Administrator</li></b>
   </ul>
 </div>
 
