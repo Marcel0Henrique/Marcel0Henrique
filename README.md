@@ -12,9 +12,6 @@
 
 <div align="center">
   <img height="180em"  alt="Marcelo Henrique's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Marcel0Henrique&theme=tokyonight& show_icons=true">
-</div>
-
-<div align="center">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcel0Henrique&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
