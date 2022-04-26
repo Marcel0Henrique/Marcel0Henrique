@@ -1,10 +1,11 @@
-<h2> Hello, my friend!</h2>
+<h2> Hello, My friend!</h2>
 
 <div>
   <h3>Who am I?</h3>
   <ul >
     <li>⭐ <b>Data Analyst - Junior</b></li>
     <li>⭐ <b>Administrator</li></b>
+    <li>⭐ <b>Java Junior</li></b>
   </ul>
 </div>
 
