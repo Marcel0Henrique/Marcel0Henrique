@@ -2,7 +2,7 @@
 
 <div>
   <h3>Who am I?</h3>
-  <h4>Developer</h4>
+  <h4>I'm a developer.</h4>
   <ul >
     <li>⭐ <b>C#</b></li>
     <li>⭐ <b>Asp Net</li></b>
