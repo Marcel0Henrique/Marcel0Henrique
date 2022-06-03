@@ -2,10 +2,11 @@
 
 <div>
   <h3>Who am I?</h3>
+  <h4>Developer</h4>
   <ul >
-    <li>⭐ <b>C# - Junior</b></li>
-    <li>⭐ <b>Administrator</li></b>
-    <li>⭐ <b>Flutter - Junior</li></b>
+    <li>⭐ <b>C#</b></li>
+    <li>⭐ <b>Asp Net</li></b>
+    <li>⭐ <b>Flutter</li></b>
   </ul>
 </div>
 
