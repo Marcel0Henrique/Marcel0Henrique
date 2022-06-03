@@ -3,9 +3,9 @@
 <div>
   <h3>Who am I?</h3>
   <ul >
-    <li>⭐ <b>Data Analyst - Junior</b></li>
+    <li>⭐ <b>C# - Junior</b></li>
     <li>⭐ <b>Administrator</li></b>
-    <li>⭐ <b>Java Junior</li></b>
+    <li>⭐ <b>Flutter - Junior</li></b>
   </ul>
 </div>
 
