@@ -1,15 +1,13 @@
-<h2> Hello, My friend!</h2>
-
-<div>
-  <h3>Who am I?</h3>
-  <h4>I'm a developer.</h4>
-  <ul >
-    <li>⭐ <b>C#</b></li>
-    <li>⭐ <b>Asp Net</li></b>
-    <li>⭐ <b>Flutter</li></b>
-  </ul>
-</div>
-
+# Olá visitante!
+1. **Quem sou eu ?👦🏾**
+	- Formado em administração, estudante de Analise e desenvolvimento de sistema no ETE Porto Digital, Desenvolvedor Fullstack junior e amante de livros.
+1. **Minhas Habilidades🥷🏾**
+	- ⭐C#
+	- ⭐Dotnet
+	- ⭐Asp Net
+	- ⭐Flutter
+	- ⭐Bootstrap
+	- ⭐Java
 <hr>
 
 <div align="center">
