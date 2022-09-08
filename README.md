@@ -1,6 +1,6 @@
 # Olá visitante!
 1. **Quem sou eu ?👦🏾**
-	- Formado em administração, estudante de Analise e desenvolvimento de sistema no ETE Porto Digital, desenvolvedor flutter junior e amante de livros.
+	- Formado em Administração e Analise e desenvolvimento de sistema no ETE Porto Digital, desenvolvedor flutter junior e amante de livros.
 1. **Minhas Habilidades🥷🏾**
 	- ⭐Flutter
 	- ⭐C#
