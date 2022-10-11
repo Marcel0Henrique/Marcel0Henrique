@@ -3,6 +3,8 @@
 	- Formado em Administração e Analise e desenvolvimento de sistema no ETE Porto Digital, desenvolvedor flutter junior e amante de livros.
 1. **Minhas Habilidades🥷🏾**
 	- ⭐Flutter
+	- ⭐Angular
+	- ⭐Typescript
 	- ⭐C#
 	- ⭐Dotnet
 	- ⭐Asp Net
